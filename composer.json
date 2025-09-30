@@ -1,0 +1,11 @@
+{
+    "require": {
+        "gotenberg/gotenberg-php": "^2.14",
+        "php-http/guzzle7-adapter": "^1.1"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
